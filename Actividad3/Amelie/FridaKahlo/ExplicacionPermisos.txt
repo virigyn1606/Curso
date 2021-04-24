@@ -1,0 +1,28 @@
+Los permisos en el entorno Linux, se refieren a la gestión de las propiedades y acciones que puede llevar a cabo un usuario para un elemento o archivo específico.
+
+Los permisos para archivos pueden ser:
+
+-De lectura 4. El contenido solo se visualiza.
+
+-De escritura 2. Está permitido crear y eliminar archivos y directorios, además de su visualización.
+
+-De ejecución 1. Permite entrar al directorio.
+
+
+
+Existen tres tipo de niveles de usuario:
+
+-Propietario o Owner. Se trata de una sola persona,y tiene la capacidad de generar archivos y carpetas sobre las cuales adempas tiene derechos.
+
+-Grupo o Group. Grupo de usuarios con una serie de permisos.
+
+-Otros u Other. Son aquellos usuarios que no son propietarios y nopertenecen a ningun grupo.
+
+
+Los permisos para carpetas pueden ser:
+
+-De lectura. El contenido solo se visualiza.
+
+-De escritura. Está permitido crear y eliminar contenido en carpetas, y modificación de permisos.
+
+-De ejecución. Permite ejecutar contenido en archivo.
